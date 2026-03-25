@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+DTSTART:20260326T150000
+DTEND:20260326T151000
+SUMMARY:📅 25/03/2026
+DESCRIPTION:Can chi: Mậu Tuất\n\n☯ Ngũ hành:\nBình Địa Mộc\n\n🟢 Hoàng đạo\n\n⏰ Giờ tốt:\nDần – Thìn – Tỵ – Thân – Dậu – Hợi
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260327T060000
+DTEND:20260327T061000
+SUMMARY:📅 26/03/2026
+DESCRIPTION:Can chi: Kỷ Hợi\n\n☯ Ngũ hành:\nBình Địa Mộc\n\n🟢 Hoàng đạo\n\n⏰ Giờ tốt:\nTý – Sửu – Thìn – Tỵ – Mùi – Tuất
+END:VEVENT
+
+END:VCALENDAR
